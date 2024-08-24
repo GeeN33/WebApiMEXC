@@ -9,4 +9,4 @@ services:
       dockerfile: WebApiMEXC/Dockerfile
       
     ports: 
-      - "8077:8077"   
+      - "8077:8080"   
